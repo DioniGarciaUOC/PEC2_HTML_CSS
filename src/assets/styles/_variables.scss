@@ -19,13 +19,28 @@ $body-font: "Avenir Book";
 $main: #fff;
 $accent: #fe320f;
 $text: #282828;
-//$background: #e3f2fd;
 
-//$background: #fabada;
+
+
 $background: pink;
 
 $theme-colors: (
   "primary": #453449,
   "dark": #222222,
-  --bs-body-bg: blue,
+  
 );
+
+$accordion-color: white;
+$accordion-bg: #202020; //BG;
+
+$accordion-button-active-color: white;
+$accordion-button-active-bg: black;
+$accordion-body-padding-x: 2em;
+
+$accordion-button-padding-x: 2em;
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+$body-font: Arial, Helvetica, sans-serif;
+
+

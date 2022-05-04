@@ -8,6 +8,8 @@
  */
 
 @import "variables";
+@import "bootstrap/scss/bootstrap";
+
 
 /**
  * Import npm dependencies
@@ -18,7 +20,6 @@
 // @import "some-node-module";
 // @import "@some-company/some-node-module";
 @import "npm:@fortawesome/fontawesome-free/css/all.css";
-@import "bootstrap/scss/bootstrap.scss";
 
 /**
  * Import layouts
