@@ -1,0 +1,31 @@
+@use "sass:color";
+
+$mqMinWidth: 420px;
+
+$green-dark-bg: #55a99b;
+$green-light-bg: #72c774;
+
+$primary-text-color: #1a1420;
+
+$metal-skin: linear-gradient(45deg, grey, white, grey);
+
+$white-bg: #f0f0f0;
+
+$dark-grey-line: dark-grey;
+
+$header-font: "Rubik Bubbles", cursive;
+$body-font: "Avenir Book";
+
+$main: #fff;
+$accent: #fe320f;
+$text: #282828;
+//$background: #e3f2fd;
+
+//$background: #fabada;
+$background: pink;
+
+$theme-colors: (
+  "primary": #453449,
+  "dark": #222222,
+  --bs-body-bg: blue,
+);

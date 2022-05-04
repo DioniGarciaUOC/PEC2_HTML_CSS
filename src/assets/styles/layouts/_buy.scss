@@ -1,0 +1,44 @@
+.buy-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  background-color: $background;
+  border-top: 1px solid $primary-text-color;
+
+  .buy-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 56px;
+
+    &-title {
+      font-size: 1.6rem;
+      color: $primary-text-color;
+      text-align: center;
+      margin-bottom: 18px;
+    }
+
+    &-text {
+      font-size: 1rem;
+      color: $primary-text-color;
+      text-align: center;
+    }
+  }
+
+  // .spotify-section {
+  //   display: flex;
+  //   flex-direction: column;
+  //   margin-top: 32px;
+
+  //   &-text {
+  //     font-size: 1.6rem;
+  //     color: $primary-text-color;
+  //     text-align: center;
+  //     margin-bottom: 18px;
+  //   }
+
+  //   &-iframe-container {
+  //     height: 380px;
+  //   }
+  // }
+}

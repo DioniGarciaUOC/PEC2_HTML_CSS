@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="./assets/styles/main.scss" />
+    </head>
+
+    <body>
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"
+        ></script>
+
+        <div class="page-container">
+            <include src="./views/navbar.html"></include>
+
+            <main class="buy-container">
+                <div class="buy-section">
+                    <span class="buy-section-title">¡Reserva tu entrada!</span>
+
+                    <span class="buy-section-text">
+                        Las entradas aún no están a la venta, pero puedes
+                        dejarnos tu correo para hacer una reserva.
+                    </span>
+                    <span class="buy-section-text">
+                        No te quedes sin tu entrada. No te lo puedes perder.
+                    </span>
+
+                    <include src="./views/book-ticket-form.html"></include>
+
+                    <div
+                        class="alert alert-success alert-dismissible mt-4"
+                        role="alert"
+                        id="success-alert"
+                    >
+                        <span>
+                            ¡Tu reserva ha sido confirmada! Pronto recibirás un
+                            correo con todos los detalles.
+                        </span>
+                    </div>
+                </div>
+            </main>
+
+            <include class="footer" src="./views/footer.html"></include>
+        </div>
+
+        <script type="module" src="./assets/scripts/main.js"></script>
+        <!-- do not remove this line! -->
+    </body>
+</html>
