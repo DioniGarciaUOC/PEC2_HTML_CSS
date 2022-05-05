@@ -3,8 +3,7 @@
   justify-content: center;
   align-content: center;
   flex-direction: column;
-  background-image: linear-gradient(45deg,#444444, lightgrey, #585858) ;
-
+  background-image: $metalic-skin;
   .blog-header {
     max-width: 100%;
     margin-bottom: 56px;
@@ -26,17 +25,19 @@
 
       &-title {
         font-size: 4rem;
-        text-align: center;
-        color: white;
       }
 
       &-subtitle {
         font-size: 1.3rem;
+      }
+
+      &-title,
+      &-subtitle {
         text-align: center;
         color: white;
+        text-shadow: 0 0 4px grey;
       }
     }
-
   }
 
   .blog-content {

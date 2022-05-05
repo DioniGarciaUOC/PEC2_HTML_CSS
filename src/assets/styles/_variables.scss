@@ -2,32 +2,26 @@
 
 $mqMinWidth: 420px;
 
-$green-dark-bg: #55a99b;
-$green-light-bg: #72c774;
-
 $primary-text-color: #1a1420;
 
-$metal-skin: linear-gradient(45deg, grey, white, grey);
+$dark-bg-color: #202020;
 
 $white-bg: #f0f0f0;
 
 $dark-grey-line: dark-grey;
 
 $header-font: "Rubik Bubbles", cursive;
-$body-font: "Avenir Book";
+$body-font: "Nunito";
 
 $main: #fff;
 $accent: #fe320f;
 $text: #282828;
-
-
 
 $background: pink;
 
 $theme-colors: (
   "primary": #453449,
   "dark": #222222,
-  
 );
 
 $accordion-color: white;
@@ -38,9 +32,13 @@ $accordion-button-active-bg: black;
 $accordion-body-padding-x: 2em;
 
 $accordion-button-padding-x: 2em;
-body{
-  font-family: Arial, Helvetica, sans-serif;
-}
-$body-font: Arial, Helvetica, sans-serif;
 
+$navbar-light-color: white;
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$navbar-light-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
 
+$metalic-skin: linear-gradient(45deg, #444444, lightgrey, #585858);
+$orangish-skin: linear-gradient(45deg, orange, ivory);
+
+$purple-base: #b05ace;
+
+$sandwich-banner: linear-gradient($purple-base, #fbcda8, $purple-base);

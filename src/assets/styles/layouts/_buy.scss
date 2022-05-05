@@ -1,11 +1,10 @@
 .buy-container {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: auto;
   align-items: center;
-  background-image: linear-gradient(45deg,#444444, lightgrey, #585858) ;
+  background-image: $metalic-skin;
   border-top: 1px solid $primary-text-color;
-  
 
   .buy-section {
     display: flex;
@@ -26,6 +25,18 @@
       text-align: center;
     }
   }
+}
 
+.accordion h2 {
+  text-align: center;
+}
+.accordion-body {
+  color: #0d6efd;
+}
 
+.accordion {
+  @media (max-device-width: 450px) {
+    border: 2px solid red;
+    width: 80%;
+  }
 }
