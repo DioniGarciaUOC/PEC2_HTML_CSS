@@ -25,10 +25,16 @@
 
       &-title {
         font-size: 4rem;
+        @media (max-device-width: 450px) {
+          font-size: 5rem;
+        }
       }
 
       &-subtitle {
         font-size: 1.3rem;
+        @media (max-device-width: 450px) {
+          font-size: 2rem;
+        }
       }
 
       &-title,
@@ -47,13 +53,13 @@
     margin-left: auto;
 
     blockquote {
-      border-left: 4px solid #ccc;
+      border-left: 8px solid white;
       margin: 1.5em 10px;
-      padding: 0.5em 10px;
+      padding: 0.5em 1em;
       quotes: "\201C""\201D""\2018""\2019";
 
       &:before {
-        color: #ccc;
+        color: white;
         content: open-quote;
         font-size: 4em;
         line-height: 0.1em;
@@ -63,6 +69,11 @@
 
       & p {
         display: inline;
+      }
+
+      @media (max-device-width: 450px) {
+        font-size: 2rem;
+        margin-left: 1em;
       }
     }
 
@@ -88,12 +99,21 @@
         min-width: 280px;
         padding-right: 12px;
         padding-left: 12px;
+
+        @media (max-device-width: 450px) {
+          font-size: 3rem;
+          margin-bottom: 1em;
+        }
       }
 
       &-text {
         font-size: 1rem;
         margin-bottom: 28px;
         color: $primary-text-color;
+        @media (max-device-width: 450px) {
+          font-size: 2rem;
+          //color: red;
+        }
       }
     }
   }
