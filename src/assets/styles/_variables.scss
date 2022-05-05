@@ -25,11 +25,6 @@ $text: #282828;
 
 $background: pink;
 
-$theme-colors: (
-  "primary": #453449,
-  "dark": #222222,
-);
-
 $accordion-color: white;
 $accordion-bg: #202020;
 
@@ -50,5 +45,10 @@ $purple-base: #b05ace;
 //Main Title
 $rave-purple: rgb(233, 66, 255);
 $rave-shadow: rgb(140, 84, 177);
+
+$theme-colors: (
+  "primary": $rave-shadow,
+  "dark": #222222,
+);
 
 $sandwich-banner: linear-gradient($purple-base, #fbcda8, $purple-base);
