@@ -1,4 +1,4 @@
-14945
+14946
 106C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\workers\src\threads\ThreadsWorker.js121436361000000000 0
 105C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\lib\vocabularies\discriminator\index.ts121436361000000000 0
 113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\function-url-no-scheme-relative132961956405917616 1
@@ -60,7 +60,7 @@
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\has-symbols\test\tests.js121436361000000000 0
 82C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\weak-lru-cache\tests132961956365640326 1
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\GetOwnPropertyKeys.js121436361000000000 0
-53C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist132962234164216905 1
+53C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist132962257067385015 1
 92C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2020\RegExpExec.js121436361000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\is-symbol\README.md121436361000000000 0
 76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\tar-fs\LICENSE121436361000000000 0
@@ -94,7 +94,7 @@
 138C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js121436361000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\nanoid\url-alphabet132961956396360412 1
 104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\utils\isStandardSyntaxUrl.js121436361000000000 0
-85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts\_home.scss132962127765249487 0
+85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts\_home.scss132962257055165380 0
 99C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-dir-pseudo-class\CHANGELOG.md121436361000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\nthArg.js121436361000000000 0
 94C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\DateFromTime.js121436361000000000 0
@@ -160,12 +160,12 @@
 96C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-color-hex-alpha\LICENSE.md121436361000000000 0
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@nodelib\fs.scandir\out\adapters\fs.js121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\svgo\lib\parser.js121436361000000000 0
-76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\main.scss132961956058924802 0
+76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\main.scss132962241517028746 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yaml\dist\util.js121436361000000000 0
 116C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-no-vendor-prefix\index.js121436361000000000 0
 117C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\harfbuzz\hb-map.h132734448000000000 0
 128C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-pseudo-class-parentheses-space-inside132961956416670876 1
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b8.bf862d2c.jpg132962228394805705 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b8.bf862d2c.jpg132962256428230868 0
 85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@nodelib\fs.scandir\out132961956383864091 1
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\has-bigints\.nycrc121436361000000000 0
 101C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\terser\node_modules\commander\Readme.md121436361000000000 0
@@ -237,7 +237,7 @@
 110C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\node_modules\resolve-from\package.json132961956474212992 0
 75C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-place132961956476042489 1
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\caniuse-lite\data\regions\GM.js121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\buy-success.html132961956058924802 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\buy-success.html132962238127721429 0
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\dist\src\truncateTableData.js121436361000000000 0
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\string.prototype.trimend\.nycrc121436361000000000 0
 78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\semver\semver.js121436361000000000 0
@@ -377,10 +377,14 @@
 98C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-selector-parser\package.json132961956473063088 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\cosmiconfig\dist\types.js121436361000000000 0
 66C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles132961956058924802 1
+115C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\node_modules\is-fullwidth-code-point\index.d.ts121436361000000000 0
+87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts\_footer.scss132962240839497974 0
+111C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2021\IsUnclampedIntegerElementType.js121436361000000000 0
+91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\entities\lib\encode-trie.d.ts121436361000000000 0
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\utils\src\schema.js121436361000000000 0
 128C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\glib-2.0\glib\gvarianttype.h132734448000000000 0
 110C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-pseudo-element-case132961956416820720 1
-74C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts132961956058924802 1
+74C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts132962240697529586 1
 72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yaml\types132961956367360209 1
 114C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-nested-pattern\index.js121436361000000000 0
 95C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\caniuse-lite\data\features\ogv.js121436361000000000 0
@@ -400,7 +404,7 @@
 76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\_Set.js121436361000000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\.bin\autoprefixer132961956483970292 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-initial\CHANGELOG.md121436361000000000 0
-84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts\_buy.scss132962234122461215 0
+84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\styles\layouts\_buy.scss132962238277168701 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yallist\iterator.js121436361000000000 0
 83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\htmlparser2\README.md121436361000000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sass\types\logger132961956393462730 1
@@ -456,17 +460,6 @@
 113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\node_modules\is-fullwidth-code-point\index.js121436361000000000 0
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\entities\lib\encode-trie.js121436361000000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\images\bands\b2.jpg132961956058623869 0
-84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\function-bind\index.js131483794420000000 0
-104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-replace-overflow-wrap\CHANGELOG.md121436361000000000 0
-113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\moon.svg121436361000000000 0
-83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\trim-newlines\license121436361000000000 0
-67C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\acorn132961956468736412 1
-104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\node_modules\node-addon-api\index.js121436361000000000 0
-108C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\harfbuzz132734448000000000 1
-89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\MakeDay.js121436361000000000 0
-78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\spread.js121436361000000000 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\decompress-response132961956479173825 1
-78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\repeat.js121436361000000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\src\assets\images\bands\b3.jpg132961956058623869 0
 113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\keyframes-name-pattern\index.js121436361000000000 0
 95C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-focus-within\CHANGELOG.md121436361000000000 0
@@ -591,6 +584,17 @@
 131C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-attribute-brackets-space-inside\index.js121436361000000000 0
 111C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\vips\draw.h132734448000000000 0
 68C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@types132961956455015030 1
+84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\function-bind\index.js131483794420000000 0
+104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-replace-overflow-wrap\CHANGELOG.md121436361000000000 0
+113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\moon.svg121436361000000000 0
+83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\trim-newlines\license121436361000000000 0
+67C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\acorn132961956468736412 1
+104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\node_modules\node-addon-api\index.js121436361000000000 0
+108C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\harfbuzz132734448000000000 1
+89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\MakeDay.js121436361000000000 0
+78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\spread.js121436361000000000 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\decompress-response132961956479173825 1
+78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\repeat.js121436361000000000 0
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yargs-parser\README.md121436361000000000 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2021\ToObject.js121436361000000000 0
 82C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\tar-stream\README.md121436361000000000 0
@@ -944,7 +948,7 @@
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\max-line-length132961956409867489 1
 121C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-attribute-name-disallowed-list132961956413474399 1
 78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\nthArg.js121436361000000000 0
-83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-regular-400.e6d1423f.woff2132962228393022319 0
+83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-regular-400.e6d1423f.woff2132962256426372629 0
 113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map121436361000000000 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\tar-fs\test\fixtures\d\file1121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\css-functions-list132961956481839977 1
@@ -1006,7 +1010,7 @@
 83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\tunnel-agent\index.js131331473520000000 0
 78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\napi-build-utils132961956478962922 1
 78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\sum.js121436361000000000 0
-79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-solid-900.5e458bab.ttf132962228392932413 0
+79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-solid-900.5e458bab.ttf132962256426342662 0
 72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\decamelize132961956481819996 1
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\is-date-object\CHANGELOG.md121436361000000000 0
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-image-set-function\dist\lib132961956384203739 1
@@ -1315,7 +1319,7 @@
 118C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\hand-lizard.svg121436361000000000 0
 70C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\htmlnano132961956470296366 1
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2020\Number\lessThan.js121436361000000000 0
-86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\detailed-background.873ccb4f.jpg132962228394450952 0
+86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\detailed-background.873ccb4f.jpg132962256427684669 0
 129C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\freetype2\freetype\ftsnames.h132734448000000000 0
 109C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-type-case\index.js121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\timsort\LICENSE.md131138581980000000 0
@@ -1443,11 +1447,6 @@
 91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@popperjs\core\lib\enums.d.ts132936371050000000 0
 96C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\uri-js\dist\esnext\schemes\http.js121436361000000000 0
 96C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2021\IsStringPrefix.js121436361000000000 0
-90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\_convertBrowser.js121436361000000000 0
-113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\apple.svg121436361000000000 0
-83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\xxhash-wasm\README.md121436361000000000 0
-119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@popperjs\core\lib\dom-utils\getHTMLElementScroll.js.flow132936371020000000 0
-84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\node_modules132961956466497133 1
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\webfonts\fa-solid-900.woff2121436361000000000 0
 104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\htmlnano\lib\modules\collapseWhitespace.js121436361000000000 0
 85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\terser\lib\sourcemap.js121436361000000000 0
@@ -2325,7 +2324,7 @@
 94C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yaml\dist\resolveSeq-d03cb037.js121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yaml\dist\index.js121436361000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\toPath.js121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b9.9260f1c9.jpg132962228394401006 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b9.9260f1c9.jpg132962256427614748 0
 101C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\node-abi\scripts\update-abi-registry.js121436361000000000 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\resolve\test\node_path\x\aaa132961956388059752 1
 98C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\fast-glob\out\providers\transformers132961956379858230 1
@@ -2384,6 +2383,11 @@
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\yallist\README.md121436361000000000 0
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\xxhash-wasm\LICENSE.md121436361000000000 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\svgo\dist\svgo.browser.js121436361000000000 0
+90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\_convertBrowser.js121436361000000000 0
+113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\apple.svg121436361000000000 0
+83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\xxhash-wasm\README.md121436361000000000 0
+119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@popperjs\core\lib\dom-utils\getHTMLElementScroll.js.flow132936371020000000 0
+84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\node_modules132961956466497133 1
 127C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\posthtml-expressions\node_modules\posthtml-parser\dist\index.d.ts121436361000000000 0
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\xxhash-wasm\umd132961956359816343 1
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\redent\index.js121436361000000000 0
@@ -3378,9 +3382,6 @@
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\libexif\exif-data.h132734448000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\_SetCache.js121436361000000000 0
 103C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\node_modules\string-width\readme.md121436361000000000 0
-115C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\node_modules\is-fullwidth-code-point\index.d.ts121436361000000000 0
-111C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2021\IsUnclampedIntegerElementType.js121436361000000000 0
-91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\entities\lib\encode-trie.d.ts121436361000000000 0
 117C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\table\node_modules\is-fullwidth-code-point\package.json132961956473432710 0
 74C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\mdn-data\css132961956400089702 1
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-clamp\index.test.js121436361000000000 0
@@ -3605,13 +3606,13 @@
 103C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2017\DeletePropertyOrThrow.js121436361000000000 0
 127C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-falling-burst.svg121436361000000000 0
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\svgo\plugins\cleanupListOfValues.js121436361000000000 0
-112C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\node_modules\semver\ranges\min-satisfying.js121436361000000000 0
-109C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\core\src\requests\WriteBundleRequest.js121436361000000000 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\object-keys\LICENSE121436361000000000 0
 104C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-pseudo-class-any-link\package.json132961956472793374 0
 111C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\utils\isRangeContextMediaFeature.js121436361000000000 0
 115C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\asterisk.svg121436361000000000 0
 88C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\resolve\test\precedence.js121436361000000000 0
+109C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\core\src\requests\WriteBundleRequest.js121436361000000000 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\object-keys\LICENSE121436361000000000 0
+112C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\node_modules\semver\ranges\min-satisfying.js121436361000000000 0
 91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\svgo\plugins\convertColors.js121436361000000000 0
 131C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\libgsf-1\gsf\gsf-output-stdio.h132734448000000000 0
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\svgo\plugins\convertEllipseToCircle.js121436361000000000 0
@@ -4171,7 +4172,7 @@
 96C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2016\ArraySetLength.js121436361000000000 0
 110C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\dist\refs\json-schema-2019-09\meta\core.json121436361000000000 0
 99C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\string.prototype.padend\test\index.js121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b3.af0957e9.jpg132962228394391013 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b3.af0957e9.jpg132962256427614748 0
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\node_modules\is-fullwidth-code-point\index.d.ts121436361000000000 0
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\isBoolean.js121436361000000000 0
 86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\domutils\lib\legacy.d.ts121436361000000000 0
@@ -4480,7 +4481,7 @@
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\5\SecFromTime.js121436361000000000 0
 108C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\string.prototype.padend\test\implementation.js121436361000000000 0
 88C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\mdn-data\css\syntaxes.json121436361000000000 0
-82C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-brands-400.ee6b33d7.woff2132962228393022319 0
+82C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-brands-400.ee6b33d7.woff2132962256426372629 0
 97C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\color-hex-alpha132961956386341527 1
 131C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\house-circle-exclamation.svg121436361000000000 0
 91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\posthtml-include\lib\index.js121436361000000000 0
@@ -4720,7 +4721,7 @@
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sass\sass.default.dart.js121436361000000000 0
 105C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\core\test\fixtures\config\subfolder132961956360875247 1
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\ArrayCreate.js121436361000000000 0
-87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-v4compatibility.8f8c5e9b.woff2132962228393012331 0
+87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-v4compatibility.8f8c5e9b.woff2132962256426372629 0
 120C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\calendar-week.svg121436361000000000 0
 118C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\bread-slice.svg121436361000000000 0
 128C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-pseudo-class-disallowed-list\index.js121436361000000000 0
@@ -5463,7 +5464,7 @@
 103C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\autoprefixer\lib\hacks\text-decoration.js121436361000000000 0
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\node_modules\semver\package.json132961956470236429 0
 136C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js121436361000000000 0
-79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\rave-attack2.3ccbc756.jpg132962228394440961 0
+79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\rave-attack2.3ccbc756.jpg132962256427664689 0
 124C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\orc-0.4\orc\orcpowerpc.h132734448000000000 0
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\npm-run-all\lib\run-task.js121436361000000000 0
 83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\toFinite.js121436361000000000 0
@@ -6290,8 +6291,8 @@
 92C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\resolve\test\precedence\aaa.js121436361000000000 0
 101C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2021\Number\exponentiate.js121436361000000000 0
 75C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\acorn\LICENSE121436361000000000 0
-117C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\gio-win32-2.0\gio132734448000000000 1
 98C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\dom-serializer\node_modules\entities132961956481740081 1
+117C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\gio-win32-2.0\gio132734448000000000 1
 83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\colord\plugins\hwb.js121436361000000000 0
 138C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\gio-win32-2.0\gio\gwin32outputstream.h132734448000000000 0
 103C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@csstools\postcss-hwb-function\INSTALL.md121436361000000000 0
@@ -6600,7 +6601,7 @@
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\fromPairs.js121436361000000000 0
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\caniuse-lite\data\regions\BZ.js121436361000000000 0
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\build\Release132961956513890958 1
-83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\Woman_Silhouette.eb803ee3.svg132962228395417632 0
+83C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\Woman_Silhouette.eb803ee3.svg132962256428679908 0
 86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2015\GetV.js121436361000000000 0
 99C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\sharp\build\Release\libglib-2.0-0.dll132735181930000000 0
 121C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\comment-dots.svg121436361000000000 0
@@ -7250,7 +7251,7 @@
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\lodash\fp\curry.js121436361000000000 0
 106C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-html\lib\template\template-parser.js121436361000000000 0
 108C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\postcss-html\lib\template\template-tokenize.js121436361000000000 0
-72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.3377c607.css132962234164216905 0
+72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.3377c607.css132962257067355038 0
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bootstrap\scss\_list-group.scss121436361000000000 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\csso\lib\replace\color.js121436361000000000 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\nanoid\async\package.json121436361000000000 0
@@ -9450,7 +9451,7 @@
 78C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\isarray\index.js130942154810000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\isarray\README.md130942154450000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\is-weakref\.nycrc121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b7.00605037.jpg132962228394401006 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b7.00605037.jpg132962256427614748 0
 85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\is-weakref\CHANGELOG.md121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\is-weakref\LICENSE121436361000000000 0
 112C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\eye.svg121436361000000000 0
@@ -9978,7 +9979,7 @@
 81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\braces\CHANGELOG.md121436361000000000 0
 95C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\electron-to-chromium\package.json132961956481530297 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\fastest-levenshtein\index.js121436361000000000 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-regular-400.25087b09.ttf132962228392812536 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-regular-400.25087b09.ttf132962256426212781 0
 94C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\fastest-levenshtein\package.json132961956481430398 0
 91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\fastest-levenshtein\README.md121436361000000000 0
 89C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\fastest-levenshtein\test.js121436361000000000 0
@@ -10537,7 +10538,7 @@
 106C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\StrictEqualityComparison.js121436361000000000 0
 94C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\StringCreate.js121436361000000000 0
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\TestIntegrityLevel.js121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b5.b12acfe0.jpg132962228394430972 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b5.b12acfe0.jpg132962256427654703 0
 98C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\thisBooleanValue.js121436361000000000 0
 95C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\es-abstract\2018\thisTimeValue.js121436361000000000 0
 128C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\wizards-of-the-coast.svg121436361000000000 0
@@ -11269,7 +11270,7 @@
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\concat-map\test132961956349080361 1
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\concat-map\test\map.js129985727760000000 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\concat-map\example\map.js129835976340000000 0
-77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\smoke-club.6e2a0aba.jpg132962228394805705 0
+77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\smoke-club.6e2a0aba.jpg132962256428230868 0
 84C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\commander\CHANGELOG.md121436361000000000 0
 79C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\commander\typings132961956349780893 1
 111C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\user.svg121436361000000000 0
@@ -12019,7 +12020,7 @@
 82C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\browserslist\node.js121436361000000000 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\browserslist\package.json132961956477283622 0
 87C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\browserslist\update-db.js121436361000000000 0
-76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.3377c607.css.map132962234164216905 0
+76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.3377c607.css.map132962257067375024 0
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\braces\index.js121436361000000000 0
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-rifle.svg121436361000000000 0
 72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\braces\lib132961956371944267 1
@@ -12200,7 +12201,7 @@
 75C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bl\LICENSE.md121436361000000000 0
 80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\logger\lib132961956388439375 1
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bl\node_modules132961956462604281 1
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b1.0c8236f4.jpg132962228394381021 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b1.0c8236f4.jpg132962256427614748 0
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bl\package.json132961956473073077 0
 69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bl\test132961956369015546 1
 93C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\bl\node_modules\readable-stream132961956473352801 1
@@ -12361,7 +12362,7 @@
 98C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\lib\vocabularies\format\index.ts121436361000000000 0
 90C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\transformer-json\lib132961956351198925 1
 107C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\lib\vocabularies\dynamic\dynamicAnchor.ts121436361000000000 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fem-festa-logo.b7d09fa5.png132962228394805705 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fem-festa-logo.b7d09fa5.png132962256428230868 0
 114C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@popperjs\core\dist\esm\dom-utils\getWindowScroll.js132936370970000000 0
 109C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\lib\vocabularies\dynamic\recursiveAnchor.ts121436361000000000 0
 106C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\ajv\lib\vocabularies\dynamic\recursiveRef.ts121436361000000000 0
@@ -13327,7 +13328,7 @@
 103C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\reporter-dev-server\src\Server.js121436361000000000 0
 86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@babel\highlight\LICENSE121012626000000000 0
 109C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\reporter-dev-server\src\serverErrors.js121436361000000000 0
-85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-v4compatibility.da07418e.ttf132962228392812536 0
+85C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-v4compatibility.da07418e.ttf132962256426212781 0
 112C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\reporter-dev-server\src\templates\404.html121436361000000000 0
 86C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@parcel\reporter-cli\lib132961956355702795 1
 115C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\file-csv.svg121436361000000000 0
@@ -13774,7 +13775,7 @@
 102C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@nodelib\fs.scandir\out\adapters\fs.d.ts121436361000000000 0
 91C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@mischnic\json-sourcemap\dist132961956395370484 1
 99C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@mischnic\json-sourcemap\package.json132961956479383612 0
-64C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.html132962228394091322 0
+64C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\index.html132962256426889022 0
 100C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@mischnic\json-sourcemap\dist\index.js132940798760000000 0
 75C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@lezer\common132961956468646506 1
 76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@lezer\lr\dist132961956350759376 1
@@ -14306,7 +14307,7 @@
 137C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-walking-arrow-loop-left.svg121436361000000000 0
 114C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\sketch.svg121436361000000000 0
 145C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-walking-dashed-line-arrow-right.svg121436361000000000 0
-70C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.html132962228956194984 0
+70C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.html132962256427894458 0
 129C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-walking-luggage.svg121436361000000000 0
 131C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-walking-with-cane.svg121436361000000000 0
 118C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\peseta-sign.svg121436361000000000 0
@@ -14545,7 +14546,7 @@
 124C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\face-smile-wink.svg121436361000000000 0
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-audio.svg121436361000000000 0
 118C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-code.svg121436361000000000 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b2.b50242e8.jpg132962228394805705 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b2.b50242e8.jpg132962256428230868 0
 117C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-pdf.svg121436361000000000 0
 124C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-powerpoint.svg121436361000000000 0
 121C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\regular\font-awesome.svg121436361000000000 0
@@ -14747,7 +14748,7 @@
 115C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\spotify.svg121436361000000000 0
 134C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-font-awesome-stroke.svg121436361000000000 0
 113C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\steam.svg121436361000000000 0
-62C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy.html132962232241313435 0
+62C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy.html132962256426889022 0
 114C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\strava.svg121436361000000000 0
 114C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\stripe.svg121436361000000000 0
 119C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\stumbleupon.svg121436361000000000 0
@@ -14935,12 +14936,12 @@
 77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\.bin\terser.cmd132961956484580707 0
 72C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\.bin\which132961956484620666 0
 76C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\node_modules\.bin\which.ps1132961956484620666 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b4.b0748f7f.jpg132962228394805705 0
-69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b6.81373094.jpg132962228394961949 0
-64C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\bands.html132962228394091322 0
-63C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\blog.html132962228394550853 0
-77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js132962228395318010 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js.map132962228395397650 0
-77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\copa-extra.88c1cd7e.png132962228394805705 0
-80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-brands-400.ba34606a.ttf132962228392872475 0
-81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-solid-900.7a8b1c1f.woff2132962228393092242 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b4.b0748f7f.jpg132962256428230868 0
+69C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\b6.81373094.jpg132962256428230868 0
+64C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\bands.html132962256426889022 0
+63C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\blog.html132962256427894458 0
+77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js132962256428600003 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js.map132962256428689896 0
+77C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\copa-extra.88c1cd7e.png132962256428230868 0
+80C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-brands-400.ba34606a.ttf132962256426272724 0
+81C:\Users\dio_g\Documents\WEBFIESTA\PEC2_HTML_CSS\dist\fa-solid-900.7a8b1c1f.woff2132962256426422577 0
