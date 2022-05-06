@@ -118,6 +118,10 @@ main.home-main {
 
   .woman-figure {
    z-index: 3;
+
+   width: 100%;
+    height: 100%;
+    object-fit: cover;
     
     
     grid-column: 4 / 5;
