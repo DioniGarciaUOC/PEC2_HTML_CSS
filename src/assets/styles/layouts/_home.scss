@@ -34,6 +34,7 @@ body {
   .navbar-container {
     display: flex;
     justify-content: flex-end;
+
     width: 100%;
 
     @media (max-device-width: 450px) {
@@ -44,20 +45,24 @@ body {
       display: flex;
       justify-content: center;
       align-items: center;
-      text-align: center;
+
       padding-bottom: 0.5em;
+
+      text-align: center;
 
       .nav-item {
         a.nav-link {
-          font-size: larger;
-
-          color: white;
           margin: 1em;
+
+          font-size: larger;
+          color: white;
+
           transition: all 0.6s;
 
           @media (max-device-width: 450px) {
-            font-size: 2.5rem;
             margin: 0.25em;
+
+            font-size: 2.5rem;
           }
 
           &:hover {
@@ -76,61 +81,49 @@ body {
   }
 }
 
-hr {
-  opacity: 0;
-}
-
-:-ms-input-placeholder,
-:root main {
-  display: block;
-}
-
 // GRID LAYOUT
 
-main.home-main {
+.home-main {
+  display: block;
   width: 100%;
   margin: 0 auto;
-  position: relative;
-
   padding: 0;
 
+  position: relative;
+
   //Support old browsers: background photo
-  background-image: url("../images/rave-attack.jpg");
+  background-image: url("../images/rave-attack2.jpg");
   background-size: cover;
   background-position: 50% center;
 
   @supports (display: grid) {
-    background-image: $metalic-skin;
     display: grid;
     grid-template-columns:
       1fr minmax(10em, max-content) minmax(14em, max-content) minmax(1em, 1fr)
       fit-content(28em);
     grid-template-rows: 10vh 25vh 30vh 15vh 10vh 2vh;
 
-    @media (max-device-width: 450px) {
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: 10vh 25vh 10vh 15vh 30vh auto;
-      height: 100vh;
-    }
+    //Reset old browsers styles: background substitution
+    background-image: $metalic-skin;
+  }
+
+  @media (max-device-width: 450px) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 10vh 25vh 10vh 15vh 30vh auto;
+    height: 100vh;
   }
 
   .main-photo {
-    object-fit: cover;
-
     width: 100%;
     height: 100%;
 
-    // Support old browsers
+    object-fit: cover;
+
+    // Support old browsers: disable the element (it'll be act as background in main-container)
     display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
 
     @supports (display: grid) {
       display: block;
-      visibility: visible;
       grid-column: 1 / 4;
       grid-row: 1 / 4;
     }
@@ -144,17 +137,19 @@ main.home-main {
   }
 
   .woman-figure {
-    z-index: 3;
     width: 100%;
     height: 100%;
+
+    z-index: 3;
+
     object-fit: contain;
 
-    //Support old browsers:
+    //Support old browsers: disable the element
     display: none;
 
     @supports (display: grid) {
       display: block;
-      grid-column: 4 / 5;
+      grid-column: 4;
       grid-row: 1 / 7;
     }
 
@@ -162,7 +157,7 @@ main.home-main {
       object-fit: cover;
 
       @supports (display: grid) {
-        grid-column: 2 / 3;
+        grid-column: 2;
         grid-row: 3 / 7;
       }
     }
@@ -204,10 +199,9 @@ main.home-main {
       color: $rave-purple;
       text-shadow: 4px 14px 30px $rave-purple;
 
-      //Suppor told browsers: centering headings
+      //Suppor old browsers: centering headings
       text-align: center;
-      margin-left: auto;
-      margin-right: auto;
+      margin: 0 auto;
 
       @supports (display: grid) {
         margin: 0;
@@ -242,13 +236,16 @@ main.home-main {
 
   .link-red-button {
     //Support old browsers: width 100% and padding
-
     width: 330px;
     padding: 2em;
     margin-top: 2em;
+
     @supports (display: grid) {
+      //Reseting old browsers styles
       padding: 0;
       margin-top: 0;
+
+      //Grid approach
       grid-column: 1 / span 1;
       grid-row: 5 / span 1;
       max-width: 200px;
@@ -257,8 +254,10 @@ main.home-main {
     display: flex;
     justify-content: center;
     text-align: center;
+
     background-color: $accent;
     transition: 0.5s all;
+
     z-index: 5;
 
     @media (max-device-width: 450px) {
@@ -274,11 +273,12 @@ main.home-main {
     }
 
     a {
+      height: fit-content;
+      margin: auto 0;
+
       text-decoration: none;
       color: $main;
       text-transform: uppercase;
-      height: fit-content;
-      margin: auto 0;
     }
 
     &:hover {
@@ -290,18 +290,21 @@ main.home-main {
   }
 
   .about {
-    line-height: 1.3;
     margin-bottom: 1em;
-    z-index: 5;
+    padding: 2em;
+
+    align-self: end;
+
+    line-height: 1.3;
+
     background-image: $orangish-skin;
+
+    z-index: 5;
 
     @supports (display: grid) {
       grid-column: 4 / span 2;
       grid-row: 3;
     }
-
-    align-self: end;
-    padding: 2em;
 
     @media (max-device-width: 450px) {
       @supports (display: grid) {
@@ -309,9 +312,10 @@ main.home-main {
         grid-row: 5 / span 1;
       }
 
-      font-size: 2rem;
       align-self: flex-start;
       height: 100%;
+
+      font-size: 2rem;
     }
   }
 
@@ -323,21 +327,27 @@ main.home-main {
     padding-left: 2em;
 
     @supports (display: grid) {
+      //Reseting old browsers style
       color: $text;
       padding-left: 0;
+
+      //Grid approach
       grid-column: 4;
       grid-row: 4;
     }
 
     justify-self: end;
     align-self: center;
-    text-transform: uppercase;
-    text-decoration: none;
 
     margin-bottom: 2em;
     margin-right: 3vh;
-    font-weight: bold;
+
     z-index: 5;
+
+    text-transform: uppercase;
+    text-decoration: none;
+
+    font-weight: bold;
 
     @media (max-device-width: 450px) {
       @supports (display: grid) {
@@ -345,21 +355,23 @@ main.home-main {
         grid-row: 6 / span 1;
       }
 
+      margin: 2em 0;
+
       font-size: 2rem;
       align-self: flex-start;
       justify-self: center;
-      margin: 0;
-      margin-top: 2em;
-      margin-bottom: 2em;
     }
 
     &::before {
-      content: "";
       display: block;
-      height: 4px;
-      background-color: $accent;
-      margin-bottom: 1em;
+      content: "";
+
       width: 50%;
+      height: 4px;
+
+      margin-bottom: 1em;
+
+      background-color: $accent;
       transition: width 0.3s;
     }
 
@@ -377,15 +389,19 @@ main.home-main {
     padding: 1em;
 
     @supports (display: grid) {
+      //Reset old style browsers
       padding: 0;
+
+      //Grid approach
       grid-column: 3 / span 1;
       grid-row: 4 / span 1;
     }
 
+    display: flex;
     z-index: 2;
+
     background-image: $orangish-skin;
     text-align: center;
-    display: flex;
 
     @media (max-device-width: 450px) {
       @supports (display: grid) {
@@ -393,10 +409,10 @@ main.home-main {
         grid-row: 4;
       }
 
-      font-size: 2rem;
       margin: 0;
-      padding-top: 2em;
-      padding-bottom: 2em;
+      padding: 2em 0;
+
+      font-size: 2rem;
     }
 
     p {
@@ -408,20 +424,24 @@ main.home-main {
 .banner {
   height: 150px;
   width: 30px;
+
   position: fixed;
   z-index: 10;
   top: 40px;
   right: 0px;
+
   background-image: $sandwich-banner;
-  background-position: -50px -0px;
-  border-radius: 20% 0 0 40%;
+  background-position: -50px 0;
+
   background-size: 180%;
+
+  border-radius: 20% 0 0 40%;
   box-shadow: 1px 1px 3px 2px grey;
   transition: all 0.5s;
 
   @media (max-device-width: 450px) {
-    top: 160px;
     width: 50px;
+    top: 160px;
   }
 }
 
@@ -430,18 +450,22 @@ main.home-main {
 }
 
 .banner .tooltip-text {
-  visibility: hidden;
   width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
+
   padding: 5px 0;
+  margin-left: -100px;
+
   position: absolute;
   z-index: 1;
   bottom: 40%;
   left: -100%;
-  margin-left: -100px;
+
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+
+  visibility: hidden;
 }
 
 .banner:hover .tooltip-text {
@@ -450,18 +474,23 @@ main.home-main {
 
 .banner .tooltip-text::after {
   content: "";
+  margin-left: -5px;
+
   position: absolute;
   top: 30%;
   left: 100%;
-  margin-left: -5px;
+
   border: 4px solid black;
-  rotate: 45deg;
+  transition: rotate(45deg);
 }
 
 .banner:active {
-  border-radius: 10% 0 0 30%;
   width: 225px;
+
+  border-radius: 10% 0 0 30%;
+
   opacity: 1;
+
   background-image: url("../images/copa-extra.png");
   background-size: cover;
   background-position: center center;

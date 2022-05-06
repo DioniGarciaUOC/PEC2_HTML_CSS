@@ -3,7 +3,9 @@
   justify-content: center;
   align-content: center;
   flex-direction: column;
+
   background-image: $metalic-skin;
+
   .blog-header {
     max-width: 100%;
     margin-bottom: 56px;
@@ -11,17 +13,20 @@
     &-image {
       width: 100%;
       height: 400px;
+
       object-fit: cover;
     }
 
     &-text {
-      position: absolute;
       display: flex;
       flex-direction: column;
       justify-content: center;
+
       height: 400px;
       width: 100%;
       max-width: 1200px;
+
+      position: absolute;
 
       &-title {
         font-size: 4rem;
@@ -40,8 +45,8 @@
       &-title,
       &-subtitle {
         text-align: center;
-        color: white;
         text-shadow: 0 0 4px grey;
+        color: white;
       }
     }
   }
@@ -53,9 +58,11 @@
     margin-left: auto;
 
     blockquote {
-      border-left: 8px solid white;
       margin: 1.5em 10px;
       padding: 0.5em 1em;
+
+      border-left: 8px solid white;
+
       quotes: "\201C""\201D""\2018""\2019";
 
       &:before {
@@ -112,7 +119,6 @@
         color: $primary-text-color;
         @media (max-device-width: 450px) {
           font-size: 2rem;
-          //color: red;
         }
       }
     }

@@ -1,9 +1,11 @@
 .bands-container {
   display: flex;
   flex-direction: column;
-  width: 100%;
   justify-content: center;
   align-content: center;
+
+  width: 100%;
+
   background-image: $metalic-skin;
 
   .bands-title {
@@ -21,11 +23,12 @@
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-    min-width: 300px;
-    width: 80vw;
-    max-width: 100%;
-    margin: 0 auto;
 
+    min-width: 300px;
+    max-width: 100%;
+    width: 80vw;
+
+    margin: 0 auto;
     padding: 0 1.5rem;
 
     @media (max-device-width: 450px) {
@@ -41,6 +44,7 @@
         min-width: auto;
         width: 80vw;
         height: 85vw;
+
         margin-bottom: 1em;
       }
 
@@ -50,6 +54,7 @@
           flex-direction: column;
           justify-content: center;
           align-content: center;
+
           height: fit-content;
           margin-top: 4px;
           padding-bottom: 1em;
@@ -65,8 +70,9 @@
 
     .card-text {
       @media (max-device-width: 450px) {
-        font-size: 1.8rem;
         padding: auto 3rem;
+
+        font-size: 1.8rem;
       }
     }
 
