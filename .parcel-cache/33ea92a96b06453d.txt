@@ -87,7 +87,7 @@
 79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\tail.js132961455062000999 0
 90C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\bootstrap\scss\_helpers.scss132961455049532714 0
 75C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\get-intrinsic132961455017393521 1
-53C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist132963074778865603 1
+53C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist132963276851848564 1
 78C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\term-size\vendor132961455013433676 1
 61C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\src\buy.html132962527881785100 0
 79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\side-channel\test132961455014210159 1
@@ -396,7 +396,7 @@
 118C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js132961455023747613 0
 108C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\lib\utils\isStandardSyntaxComment.js132961455052202554 0
 122C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\glib-2.0\glib\gutils.h132734448000000000 0
-85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\src\assets\styles\layouts\_home.scss132963074751444489 0
+85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\src\assets\styles\layouts\_home.scss132963276120936795 0
 137C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js132961455008455969 0
 93C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\table\dist\src\alignString.d.ts132961455035571973 0
 67C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\color132961455018006300 1
@@ -2303,7 +2303,7 @@
 89C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\_createAggregator.js132961455042531852 0
 85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\optimizer-image132961455043666383 1
 127C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint-scss\dist\rules\function-quote-no-quoted-strings-inside132961455037302832 1
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b3.af0957e9.jpg132963059595268701 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b3.af0957e9.jpg132963276850143923 0
 73C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\css132961455032887641 1
 108C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\caniuse-lite\data\features\childnode-remove.js132961455038423523 0
 94C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\yaml\dist\resolveSeq-d03cb037.js132961455026296504 0
@@ -3293,7 +3293,7 @@
 99C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2020\Number\unaryMinus.js132961455063933194 0
 96C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2015\CharacterRange.js132961455040322383 0
 103C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\source-map-js\lib\source-map-generator.js132961455017506377 0
-83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-regular-400.e6d1423f.woff2132963059592430440 0
+83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-regular-400.e6d1423f.woff2132963276846673216 0
 102C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\string.prototype.trimstart\test\index.js132961455017326075 0
 77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\tar-fs\index.js132961455018986181 0
 81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\isElement.js132961455057656348 0
@@ -3461,7 +3461,7 @@
 89C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\5\InLeapYear.js132961455052953102 0
 85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\table\dist\src\index.js132961455022362564 0
 96C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\postcss-custom-selectors\README.md132961455015997529 0
-62C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy.html132963059593932988 0
+62C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy.html132963276849187658 0
 98C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\table\dist\src\injectHeaderConfig.js132961455022652005 0
 83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\htmlparser2\README.md132961455019409858 0
 125C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\selector-descendant-combinator-no-non-space132961455048534544 1
@@ -4211,7 +4211,7 @@
 103C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\node_modules\strip-ansi\license132961455007727350 0
 96C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\node-addon-api\tools\check-napi.js132961455019224780 0
 100C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\lib\utils\getAtRuleParams.js132961455029566811 0
-83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\Woman_Silhouette.eb803ee3.svg132963059598305347 0
+83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\Woman_Silhouette.eb803ee3.svg132963276851362828 0
 101C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2019\IsSharedArrayBuffer.js132961455055845779 0
 117C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\broom-ball.svg132961455056739625 0
 125C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\libxml2\libxml\xmlerror.h132734448000000000 0
@@ -4924,7 +4924,7 @@
 82C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\resolve\lib\async.js132961455019973801 0
 109C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\function-name-case\index.js132961455043630675 0
 95C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\postcss-selector-not\package.json132961455009995331 0
-77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\smoke-club.6e2a0aba.jpg132963059597148710 0
+77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\smoke-club.6e2a0aba.jpg132963276850363264 0
 114C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\desktop.svg132961455061756349 0
 115C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\stylelint\lib\rules\function-disallowed-list\index.js132961455043472629 0
 81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\_cacheHas.js132961455040026270 0
@@ -5351,7 +5351,7 @@
 81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\_flatRest.js132961455044474904 0
 122C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\libxml2\libxml\xmlIO.h132734448000000000 0
 85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\signal-exit\LICENSE.txt132961455013141160 0
-70C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.html132963059596026389 0
+70C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.html132963276849437981 0
 100C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@babel\highlight\node_modules\has-flag132961455011512672 1
 84C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\signal-exit\signals.js132961455008127263 0
 105C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2020\Number\signedRightShift.js132961455061074040 0
@@ -6051,7 +6051,7 @@
 125C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\glib-2.0\glib\gstrfuncs.h132734448000000000 0
 93C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\node-resolver-core\test132961455043327709 1
 123C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\sharp\vendor\8.11.3\win32-x64\include\glib-2.0\glib\gstring.h132734448000000000 0
-64C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\bands.html132963059593932988 0
+64C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\bands.html132963276849187658 0
 112C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\utils\test\replaceBundleReferences.test.js132961455036259747 0
 86C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\_arrayIncludes.js132961455016798925 0
 93C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\bootstrap\scss\_list-group.scss132961455049719200 0
@@ -7953,7 +7953,7 @@
 89C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\sortedLastIndexBy.js132961455061623243 0
 133C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1132961455091405426 0
 116C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-test132961455091405426 0
-82C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-brands-400.ee6b33d7.woff2132963059592440346 0
+82C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-brands-400.ee6b33d7.woff2132963276846683773 0
 83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\is-core-module\.nycrc132961455008233684 0
 84C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\domhandler\lib\node.js132961455010550605 0
 120C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-test.cmd132961455091405426 0
@@ -8419,7 +8419,7 @@
 76C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\mean.js132961455059792427 0
 115C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc132961455032804626 0
 79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\memoize.js132961455059861996 0
-87C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-v4compatibility.8f8c5e9b.woff2132963059592435372 0
+87C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-v4compatibility.8f8c5e9b.woff2132963276846673216 0
 77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\merge.js132961455059907553 0
 90C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\_convertBrowser.js132961455041899864 0
 83C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\fraction.js\README.md132961455015094345 0
@@ -8969,7 +8969,7 @@
 84C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\flowRight.js132961455055599985 0
 82C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\forEach.js132961455055634352 0
 80C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\forIn.js132961455055733015 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b9.9260f1c9.jpg132963059595356380 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b9.9260f1c9.jpg132963276850155188 0
 85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lodash\fp\forInRight.js132961455055772081 0
 101C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\htmlparser2\lib\WritableStream.d.ts.map132961455018763699 0
 110C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js132961455028438436 0
@@ -9292,7 +9292,7 @@
 107C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-x64\node.abi88.musl.node132961455054798084 0
 108C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-x64\node.abi93.glibc.node132961455055808146 0
 113C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-arm64\electron.abi99.musl.node132961455045227424 0
-86C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\detailed-background.873ccb4f.jpg132963059595388112 0
+86C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\detailed-background.873ccb4f.jpg132963276850305125 0
 110C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-arm64\node.abi102.musl.node132961455048152233 0
 110C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-arm64\node.abi72.glibc.node132961455050487715 0
 109C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\lmdb\prebuilds\linux-arm64\node.abi72.musl.node132961455050957312 0
@@ -9431,7 +9431,7 @@
 77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\json5\README.md132961455019914815 0
 127C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-falling-burst.svg132961455069736531 0
 104C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2018\CreateIterResultObject.js132961455043936788 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b2.b50242e8.jpg132963059597124837 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b2.b50242e8.jpg132963276850363264 0
 116C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node132961455067033574 0
 78C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\json5\lib\cli.js132961455007814723 0
 82C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\json5\lib\index.d.ts132961455021699623 0
@@ -10193,7 +10193,7 @@
 97C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2021\GetSubstitution.js132961455051675034 0
 95C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\ajv\dist\compile\codegen\index.js132961455029712813 0
 93C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2021\HasProperty.js132961455052320486 0
-80C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-brands-400.ba34606a.ttf132963059591525745 0
+80C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-brands-400.ba34606a.ttf132963276846485186 0
 94C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2021\HourFromTime.js132961455052556413 0
 95C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2020\UnicodeEscape.js132961455063972886 0
 100C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\es-abstract\2021\InstanceofOperator.js132961455053130112 0
@@ -13088,7 +13088,7 @@
 96C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@nodelib\fs.scandir\out\index.d.ts132961455022211415 0
 90C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\workers\src\index.js132961455026067605 0
 89C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\workers\src\threads132961455029520593 1
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b1.0c8236f4.jpg132963059595268701 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b1.0c8236f4.jpg132963276850143923 0
 91C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\cache\lib\IDBCache.js132961455036061103 0
 90C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\workers\src\Trace.js132961455029991366 0
 90C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@parcel\workers\src\types.js132961455030275163 0
@@ -14161,7 +14161,7 @@
 118C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\kit-medical.svg132961455067485763 0
 118C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\kitchen-set.svg132961455067491294 0
 108C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\l.svg132961455067506630 0
-79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-solid-900.5e458bab.ttf132963059591613820 0
+79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-solid-900.5e458bab.ttf132963276846614796 0
 120C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\landmark-dome.svg132961455067547051 0
 111C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\leaf.svg132961455067643331 0
 112C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\lemon.svg132961455067694363 0
@@ -14229,7 +14229,7 @@
 112C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\pager.svg132961455069306144 0
 119C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\paint-roller.svg132961455069306144 0
 117C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\paintbrush.svg132961455069306144 0
-77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\copa-extra.88c1cd7e.png132963059597114904 0
+77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\copa-extra.88c1cd7e.png132963276850305125 0
 114C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\palette.svg132961455069306144 0
 115C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\panorama.svg132961455069338148 0
 118C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\paper-plane.svg132961455069338148 0
@@ -14317,7 +14317,7 @@
 76C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\.bin\which.ps1132961455091398803 0
 113C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\scroll.svg132961455071307439 0
 114C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\sd-card.svg132961455071307439 0
-81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js.map132963059598279363 0
+81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js.map132963276851192055 0
 114C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\section.svg132961455071321097 0
 114C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\brands\padlet.svg132961455069268683 0
 115C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\seedling.svg132961455071336070 0
@@ -14382,7 +14382,7 @@
 111C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\tape.svg132961455073057305 0
 111C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\tarp.svg132961455073084408 0
 111C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\taxi.svg132961455073084408 0
-76C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.3377c607.css.map132963074778865603 0
+76C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.3377c607.css.map132963276850027158 0
 127C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\temperature-arrow-up.svg132961455073132311 0
 124C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\temperature-empty.svg132961455073132311 0
 123C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\@fortawesome\fontawesome-free\svgs\solid\temperature-full.svg132961455073163861 0
@@ -14932,17 +14932,17 @@
 73C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\.bin\terser132961455091398803 0
 77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\.bin\terser.cmd132961455091398803 0
 77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\node_modules\.bin\terser.ps1132961455091398803 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b4.b0748f7f.jpg132963059597140161 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b5.b12acfe0.jpg132963059595388112 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b6.81373094.jpg132963059597221885 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b7.00605037.jpg132963059595356380 0
-69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b8.bf862d2c.jpg132963059597159783 0
-63C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\blog.html132963059596026389 0
-77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js132963059598103858 0
-81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-regular-400.25087b09.ttf132963059591525745 0
-81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-solid-900.7a8b1c1f.woff2132963059592440346 0
-85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-v4compatibility.da07418e.ttf132963059591525745 0
-81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fem-festa-logo.b7d09fa5.png132963059597119868 0
-72C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.3377c607.css132963074778785333 0
-64C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.html132963059593932988 0
-79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\rave-attack2.3ccbc756.jpg132963059595356380 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b4.b0748f7f.jpg132963276850363264 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b5.b12acfe0.jpg132963276850242691 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b6.81373094.jpg132963276850397295 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b7.00605037.jpg132963276850155188 0
+69C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\b8.bf862d2c.jpg132963276850397295 0
+63C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\blog.html132963276849379734 0
+77C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\buy-success.abdb1b70.js132963276851105170 0
+81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-regular-400.25087b09.ttf132963276846433632 0
+81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-solid-900.7a8b1c1f.woff2132963276846717357 0
+85C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fa-v4compatibility.da07418e.ttf132963276846429897 0
+81C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\fem-festa-logo.b7d09fa5.png132963276850333838 0
+72C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.3377c607.css132963276849938962 0
+64C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\index.html132963276849187658 0
+79C:\Users\dioga\Documents\FIESTAWEB\PEC2_HTML_CSS\dist\rave-attack2.3ccbc756.jpg132963276850242691 0
